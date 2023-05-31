@@ -322,11 +322,13 @@ a:hover{
 
     h1 {
       font-size: 1em;
+      opacity: 95%;
     }
 
     h2 {
         font-size: 1em;
         background-color: #b8b9b9;
+        opacity: 95%;
       }
     .card-container {
         flex-direction: column;
