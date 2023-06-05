@@ -13,7 +13,7 @@ Essa sessão também tem uma pequena animação ao passar o mouse em cima dos ci
 
 ![print2](https://github.com/Flaviafclaro/Portifolio/assets/93830753/bbd23e39-6445-4809-82d2-0397064084c2)
 
-Abaixo está o link do site em funcionamento, fique a vontade para explorá-lo.
+Abaixo está o link onde o site está hospedado, fique a vontade para explorá-lo.
 
 https://flaviafclaro.github.io/site/
 
